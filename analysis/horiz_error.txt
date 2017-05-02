@@ -1,0 +1,45 @@
+Initialized!
+Step 0 (epoch 0.00), 6.1 ms
+Minibatch loss: 0.754, learning rate: 0.001000
+Minibatch error: 56.2%
+Validation error: 50.4%
+Step 80 (epoch 0.41), 203.6 ms
+Minibatch loss: 0.262, learning rate: 0.001000
+Minibatch error: 7.8%
+Validation error: 7.4%
+Step 160 (epoch 0.81), 214.0 ms
+Minibatch loss: 0.109, learning rate: 0.001000
+Minibatch error: 3.1%
+Validation error: 2.6%
+Step 240 (epoch 1.22), 214.1 ms
+Minibatch loss: 0.056, learning rate: 0.000950
+Minibatch error: 0.0%
+Validation error: 1.2%
+Step 320 (epoch 1.63), 209.3 ms
+Minibatch loss: 0.047, learning rate: 0.000950
+Minibatch error: 0.0%
+Validation error: 0.8%
+Step 400 (epoch 2.03), 215.5 ms
+Minibatch loss: 0.069, learning rate: 0.000903
+Minibatch error: 0.0%
+Validation error: 0.6%
+Step 480 (epoch 2.44), 220.7 ms
+Minibatch loss: 0.050, learning rate: 0.000903
+Minibatch error: 0.0%
+Validation error: 0.6%
+Step 560 (epoch 2.84), 206.1 ms
+Minibatch loss: 0.057, learning rate: 0.000903
+Minibatch error: 0.0%
+Validation error: 0.4%
+Step 640 (epoch 3.25), 201.0 ms
+Minibatch loss: 0.044, learning rate: 0.000857
+Minibatch error: 0.0%
+Validation error: 0.2%
+Step 720 (epoch 3.66), 204.8 ms
+Minibatch loss: 0.042, learning rate: 0.000857
+Minibatch error: 0.0%
+Validation error: 0.2%
+Step 800 (epoch 4.06), 206.7 ms
+Minibatch loss: 0.041, learning rate: 0.000815
+Minibatch error: 0.0%
+Validation error: 0.2%

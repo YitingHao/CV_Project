@@ -1,0 +1,111 @@
+Last login: Sun Apr 30 20:54:36 on ttys005
+-bash: /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home: is a directory
+Yitings-MacBook-Pro@test3_verti_group:yitinghao$ pwd
+/Users/yitinghao/Desktop/Course/2017_Spring/2.Computer_Vision/Project/codes/CNN/test3_verti_group
+Yitings-MacBook-Pro@test3_verti_group:yitinghao$ ls
+cnn.py
+Yitings-MacBook-Pro@test3_verti_group:yitinghao$ python cnn.py 
+Initialized!
+Step 0 (epoch 0.00), 19.2 ms
+Minibatch loss: 0.717, learning rate: 0.001000
+Minibatch error: 40.6%
+Validation error: 44.5%
+Step 80 (epoch 0.41), 513.0 ms
+Minibatch loss: 0.322, learning rate: 0.001000
+Minibatch error: 14.1%
+Validation error: 8.7%
+Step 160 (epoch 0.81), 502.4 ms
+Minibatch loss: 0.140, learning rate: 0.001000
+Minibatch error: 3.1%
+Validation error: 2.9%
+Step 240 (epoch 1.22), 492.5 ms
+Minibatch loss: 0.082, learning rate: 0.000950
+Minibatch error: 1.6%
+Validation error: 0.2%
+Step 320 (epoch 1.63), 489.7 ms
+Minibatch loss: 0.052, learning rate: 0.000950
+Minibatch error: 0.0%
+Validation error: 0.2%
+Step 400 (epoch 2.03), 503.7 ms
+Minibatch loss: 0.089, learning rate: 0.000903
+Minibatch error: 1.6%
+Validation error: 0.4%
+Step 480 (epoch 2.44), 505.1 ms
+Minibatch loss: 0.054, learning rate: 0.000903
+Minibatch error: 0.0%
+Validation error: 0.1%
+Step 560 (epoch 2.84), 493.3 ms
+Minibatch loss: 0.043, learning rate: 0.000903
+Minibatch error: 0.0%
+Validation error: 0.1%
+Step 640 (epoch 3.25), 494.6 ms
+Minibatch loss: 0.041, learning rate: 0.000857
+Minibatch error: 0.0%
+Validation error: 0.1%
+Step 720 (epoch 3.66), 516.6 ms
+Minibatch loss: 0.042, learning rate: 0.000857
+Minibatch error: 0.0%
+Validation error: 0.1%
+Step 800 (epoch 4.06), 488.2 ms
+Minibatch loss: 0.041, learning rate: 0.000815
+Minibatch error: 0.0%
+Validation error: 0.1%
+Step 880 (epoch 4.47), 487.6 ms
+Minibatch loss: 0.043, learning rate: 0.000815
+Minibatch error: 0.0%
+Validation error: 0.1%
+Step 960 (epoch 4.88), 488.7 ms
+Minibatch loss: 0.081, learning rate: 0.000815
+Minibatch error: 1.6%
+Validation error: 0.1%
+Step 1040 (epoch 5.28), 513.1 ms
+Minibatch loss: 0.041, learning rate: 0.000774
+Minibatch error: 0.0%
+Validation error: 0.1%
+Step 1120 (epoch 5.69), 489.2 ms
+Minibatch loss: 0.041, learning rate: 0.000774
+Minibatch error: 0.0%
+Validation error: 0.1%
+Step 1200 (epoch 6.10), 488.2 ms
+Minibatch loss: 0.041, learning rate: 0.000735
+Minibatch error: 0.0%
+Validation error: 0.2%
+Step 1280 (epoch 6.50), 488.9 ms
+Minibatch loss: 0.041, learning rate: 0.000735
+Minibatch error: 0.0%
+Validation error: 0.1%
+Step 1360 (epoch 6.91), 491.5 ms
+Minibatch loss: 0.040, learning rate: 0.000735
+Minibatch error: 0.0%
+Validation error: 0.1%
+Step 1440 (epoch 7.31), 492.5 ms
+Minibatch loss: 0.040, learning rate: 0.000698
+Minibatch error: 0.0%
+Validation error: 0.1%
+Step 1520 (epoch 7.72), 491.0 ms
+Minibatch loss: 0.040, learning rate: 0.000698
+Minibatch error: 0.0%
+Validation error: 0.1%
+Step 1600 (epoch 8.13), 492.3 ms
+Minibatch loss: 0.040, learning rate: 0.000663
+Minibatch error: 0.0%
+Validation error: 0.1%
+Step 1680 (epoch 8.53), 497.3 ms
+Minibatch loss: 0.041, learning rate: 0.000663
+Minibatch error: 0.0%
+Validation error: 0.1%
+Step 1760 (epoch 8.94), 496.0 ms
+Minibatch loss: 0.040, learning rate: 0.000663
+Minibatch error: 0.0%
+Validation error: 0.1%
+Step 1840 (epoch 9.35), 498.7 ms
+Minibatch loss: 0.040, learning rate: 0.000630
+Minibatch error: 0.0%
+Validation error: 0.0%
+Step 1920 (epoch 9.75), 517.8 ms
+Minibatch loss: 0.040, learning rate: 0.000630
+Minibatch error: 0.0%
+Validation error: 0.1%
+Test error: 0.0%
+Model saved in file: model.ckpt
+Yitings-MacBook-Pro@test3_verti_group:yitinghao$ 

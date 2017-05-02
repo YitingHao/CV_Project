@@ -1,0 +1,671 @@
+103_em_0.png:+ + + + - - 0 1 1 1 = a a a a ldots n n n n upper_P upper_X upper_X upper_X
+103_em_1.png:( ) 1 = c e v
+103_em_10.png:( ( ) ) , - 1 = d k k p w x x x
+103_em_11.png:+ 0 = Delta upper_T upper_T upper_T
+103_em_12.png:( ) upper_G z
+103_em_13.png:- . . = g k m upper_A upper_R
+103_em_14.png:- = n n p p q u u
+103_em_15.png:- 2 3 3 6 = pi q s v
+103_em_16.png:( ) , , 1 ldots p p upper_N
+103_em_17.png:( ) 0 = i upper_E upper_T
+103_em_18.png:( ) 1 1 1 = upper_A upper_B upper_S
+103_em_19.png:p q times
+103_em_2.png:( ( ( ) ) ) - - = f g upper_A upper_A upper_E upper_F upper_G
+103_em_20.png:, , 1 k ldots upper_E upper_E
+103_em_21.png:= r upper_M
+103_em_22.png:( ( ) ) - s t upper_B upper_B
+103_em_23.png:- = Delta prime x x x
+103_em_24.png:+ = s t x y
+103_em_25.png:/ 2 m upper_G upper_M upper_R
+103_em_26.png:( ) f s u upper_T
+103_em_27.png:+ + - - a b gt m m n n prime prime
+103_em_28.png:/ 2 = l t v
+103_em_29.png:- - 1 2 = e mu upper_L upper_N upper_R
+103_em_3.png:( ) i j upper_E
+103_em_5.png:- = a s t upper_H upper_P upper_P upper_R v v
+103_em_7.png:+ - 1 1 2 d infty int t t
+103_em_8.png:( ) + - - 1 1 2 2 = g k prime sqrt y y
+103_em_9.png:( ( ) ) , - = d p x x y y
+104_em_30.png:- 1 = a a b d d d g | |
+104_em_31.png:+ = d int upper_C x x
+104_em_32.png:= prime prime r upper_P upper_S
+104_em_33.png:( ) 2 = a a v
+104_em_34.png:- - 4 a lt u x | |
+104_em_35.png:- 1 lt q
+104_em_36.png:- - - 1 2 5 a b b leq sqrt x | |
+104_em_37.png:leq leq upper_A upper_B upper_C upper_I upper_I upper_I
+104_em_38.png:( ( ) ) - t t u v
+104_em_39.png:- - 1 = a alpha alpha m upper_P upper_S x
+104_em_40.png:- 1 3 3 = gamma mu sigma
+104_em_42.png:0 5 8 upper_T
+104_em_43.png:+ 1 = i i upper_T upper_X upper_X
+104_em_44.png:( ) , i i i upper_M x y
+104_em_45.png:( ( ( ) ) ) = prime upper_P upper_P upper_R upper_X upper_X upper_X
+104_em_47.png:in u upper_S
+104_em_48.png:( ) / b c upper_P
+104_em_49.png:( ) , , 1 ldots n v v
+104_em_50.png:- 2 = g o sqrt upper_H upper_T
+104_em_51.png:+ - 1 1 = n n n upper_S upper_S upper_S
+104_em_52.png:1 = s
+104_em_53.png:0 upper_L
+104_em_54.png:( ) upper_P x x { }
+104_em_55.png:2 k upper_G
+104_em_56.png:, , , , - - - 0 0 0 1 1 1 2 2 2 2 = = [ [ [ ] ] ] a upper_P upper_P upper_P x x x x x x x x x
+104_em_57.png:( ) a prime y
+104_em_58.png:( ) 0 0 1 = sigma
+104_em_59.png:+ + + 1 2 = ldots n n upper_S upper_X upper_X upper_X
+105_em_60.png:( ( ) ) + - 0 1 2 = alpha beta c c upper_E
+105_em_61.png:( ) + - - . 0 1 4 4 5 6 = times upper_C upper_C upper_P upper_P upper_V
+105_em_62.png:( ) + 2 = a b f prime x x
+105_em_63.png:( ( ( ) ) ) - - - - / / 1 1 2 2 2 = c d e i int n n pi t t upper_P upper_P upper_T upper_T upper_T upper_T
+105_em_64.png:( ( ) ) + + + - - 1 2 2 a a ldots p p p p s s
+105_em_65.png:- 2 = p q sqrt
+105_em_66.png:( ( ) ) - = a a b b d d f f int int x x x x
+105_em_68.png:( ( ) ) 2 = a a c c d d r r upper_A upper_A upper_B
+105_em_69.png:1 = prime upper_P upper_P
+105_em_70.png:( ) 0 = g upper_T
+105_em_71.png:= [ ] mu n n upper_E upper_X
+105_em_72.png:( ) i sigma upper_A
+105_em_74.png:( ) - 2 = alpha l sqrt u upper_L
+105_em_75.png:( ( ) ) + + + - - - - - - - 1 1 1 1 1 1 1 1 2 2 3 3 3 4 4 4 4 4 7 7 7 7 = = sqrt sqrt sqrt sqrt sqrt sqrt v v
+105_em_76.png:+ + + + + - - - 0 0 2 2 2 2 2 2 3 3 4 5 5 8 = a s s s s t t t t x x x x x
+105_em_77.png:- i o upper_V upper_V
+105_em_78.png:0 lt p s t
+105_em_79.png:, , 0 = a a ldots upper_A upper_A { | | }
+105_em_80.png:+ 1 4 m upper_S
+105_em_81.png:- - k k n n p q upper_A upper_A upper_A upper_C upper_C upper_C
+105_em_82.png:0 0 1 = upper_N upper_T
+105_em_83.png:( ) r upper_P
+105_em_84.png:, , prime upper_H upper_H upper_M
+105_em_85.png:+ - 1 = c p t upper_L upper_V
+105_em_86.png:+ + 0 c ldots n n upper_A upper_I
+105_em_87.png:- 5 = f sqrt upper_C upper_R
+105_em_88.png:( ) 2 2 upper_M
+105_em_89.png:( ) + - - 1 = c f i o o o p t t times upper_P
+106_em_100.png:. i upper_M
+106_em_101.png:1 = g u upper_A upper_N
+106_em_102.png:( ) 0 0 0 1 2 3 4 = c d e f upper_H x
+106_em_103.png:( ) , , 1 ldots m s s
+106_em_104.png:= e i theta z z | |
+106_em_105.png:( ) . = f k p upper_N upper_T upper_V
+106_em_106.png:( ( ) ) + - - 1 2 = c c g i i i infty infty int pi pi s s t t
+106_em_108.png:m m n upper_P
+106_em_109.png:( ) - - 0 0 2 2 = p t upper_N upper_N upper_N
+106_em_110.png:- c i w
+106_em_111.png:( ) + - . 1 = k p p q q
+106_em_112.png:( ( ) ) prime u upper_L upper_L v
+106_em_113.png:- 2 = a a prime sqrt
+106_em_114.png:( ( ( ( ) ) ) ) + + + - - - - 1 1 1 1 2 2 k k k k ldots ldots n n n n times
+106_em_115.png:= d f upper_R upper_R
+106_em_116.png:( ( ( ( ( ) ) ) ) ) + + + - - 1 1 1 1 2 = n n n n n n upper_P upper_P upper_P x x x x
+106_em_117.png:( ) 2 4 log
+106_em_118.png:+ - 1 2 = i s t
+106_em_119.png:t upper_E x
+106_em_90.png:- 2 = a upper_R v
+106_em_91.png:- 0 geq prime prime times times x x y y
+106_em_93.png:+ + - 1 2 2 2 2 2 2 = upper_A upper_A upper_A upper_B upper_B upper_C upper_C upper_I
+106_em_94.png:2 4 a pi upper_R
+106_em_95.png:( ) = e h t t upper_F
+106_em_96.png:+ - 1 1 1 = e i m t upper_I upper_I upper_L upper_V
+106_em_97.png:( ) - 2 2 2 2 2 = = c c i i i i j j m m sqrt upper_P upper_P upper_V upper_V upper_V upper_V
+106_em_99.png:( ) 1 = cos o theta upper_P
+114_em_125.png:( ) + f i sigma t
+115_em_127.png:( ) / 1 2 4 6 8 = d e i r times upper_A
+115_em_128.png:( ) i s upper_L z
+115_em_129.png:( ) b u
+115_em_130.png:( ) - 0 1 1 6 = n times upper_N
+115_em_131.png:e j j v
+115_em_132.png:, , 0 1 ldots upper_L upper_L
+115_em_133.png:( ) ) / = f upper_F upper_R upper_T upper_T
+115_em_134.png:0 Delta upper_H
+115_em_135.png:- 1 2 = k upper_E upper_T
+115_em_136.png:, - 0 = = d d t upper_A upper_A upper_H { }
+115_em_137.png:- 1 2 = sigma
+115_em_138.png:( ( ( ) ) ) = m m n n upper_T upper_T upper_T upper_X upper_X
+115_em_139.png:( ) 3 upper_H upper_R
+115_em_140.png:( ) n p v
+115_em_142.png:( ) 0 1 = upper_T upper_X
+115_em_143.png:- - = n p upper_R upper_T upper_V
+115_em_144.png:( ) upper_B upper_B upper_T
+115_em_145.png:( ) f upper_H
+115_em_146.png:neq p q
+115_em_147.png:( ( ) ) - = i n r sin sin theta theta
+115_em_148.png:, 1 2 Delta upper_S
+115_em_149.png:( ) + - 1 1 2 2 = = = i i i i l l q r s s sum sum
+115_em_150.png:+ , , 1 e e ldots r s
+115_em_151.png:. a s upper_P
+115_em_152.png:( ) - = d d d u u u v v v
+115_em_153.png:( ( ) ) . = g u z z z
+115_em_154.png:= a b i i i j j j mu prime sum
+115_em_155.png:+ = alpha n s
+115_em_156.png:gt n u upper_M
+116_em_158.png:= gamma phi sin tan tan upper_H upper_H
+116_em_159.png:- 1 upper_I
+116_em_160.png:( ) . = alpha beta i j k l upper_M
+116_em_161.png:+ + , - - - - 2 2 3 3 3 3 [ ] u u v v
+116_em_162.png:( ( ) ) - - 2 2 = m r upper_L upper_V w w | | | |
+116_em_163.png:+ - 0 1 1 3 5 5 5 = upper_H upper_X upper_X upper_X
+116_em_164.png:( ( ( ( ( ) ) ) ) ) + - 1 1 1 2 2 = = cos e f f g u v x x x x x
+116_em_165.png:( ( ) ) + - - 1 1 = f n n n prime x x
+116_em_166.png:( ) = a f l lim rightarrow x x
+116_em_167.png:2 2 upper_N
+116_em_168.png:( ( ) ) + - 1 1 2 = k k n n n upper_M
+116_em_169.png:, l l m r upper_Y
+116_em_170.png:= c p upper_E
+116_em_171.png:( ) 2 = alpha cos i sqrt t upper_A upper_I upper_S upper_S
+116_em_172.png:2 theta upper_E
+116_em_173.png:( ( ) ) + + + + + + + + - - 1 1 1 1 2 2 2 2 2 4 4 4 4 4 5 8 = i i i i i i m upper_R x x x y y
+116_em_174.png:- = d d n upper_P upper_P upper_V upper_V
+116_em_175.png:+ - - 1 a gt p q q upper_P
+116_em_176.png:( ( ) ) = infty lim rightarrow t t upper_T upper_T x x
+116_em_177.png:- 0 1 g l lt lt q upper_R
+116_em_178.png:= [ [ ] ] prime prime upper_X upper_X upper_Y upper_Y
+116_em_179.png:( ) - 2 2 = = [ [ ] ] mu mu sigma upper_E upper_E upper_X upper_X
+116_em_180.png:+ - - - - 2 2 g gamma gamma i i upper_P upper_P upper_V v
+116_em_181.png:, 0 2 upper_S w
+116_em_182.png:0 = Delta theta
+116_em_183.png:( ) upper_E upper_P
+116_em_184.png:- 1 2 2 = = e l m times upper_E upper_F v
+116_em_185.png:- 2 = q sqrt y
+116_em_186.png:( ) sigma upper_F upper_R
+117_em_187.png:- - - - 1 = alpha alpha i o upper_V upper_V
+117_em_188.png:- = e s s upper_V upper_V upper_V | |
+117_em_189.png:( ) 1 2 = f u u
+117_em_190.png:= d i i mu
+117_em_191.png:+ + + = i j k q w x y z
+117_em_192.png:- 3 8 = a sqrt upper_R
+117_em_193.png:( ) + 1 = f n n u u
+117_em_194.png:0 = i upper_S
+117_em_195.png:- - - 1 1 1 2 2 2 2 = a a b b b b upper_R upper_X
+117_em_196.png:- 0 3 = phi upper_A upper_E upper_I upper_L upper_M
+117_em_197.png:= a i sqrt times x | |
+117_em_198.png:( ) . . . 0 0 1 3 3 3 = r r u upper_G upper_N upper_P
+117_em_199.png:- - 1 2 9 = e i pi v
+117_em_200.png:+ - - - 1 1 1 2 2 = c sqrt upper_G upper_M upper_R z
+117_em_201.png:( ) i in l o upper_A upper_N
+117_em_202.png:0 Delta r upper_G upper_T
+117_em_203.png:= k p upper_B upper_N upper_T upper_V
+117_em_204.png:2 = sigma sigma sqrt
+117_em_205.png:( ) , 1 = c d g n p upper_P
+117_em_207.png:( ) - - - 1 2 2 2 2 = c f f f i n pi s sin upper_R upper_R upper_R upper_S
+117_em_208.png:- - 0 1 a lt n n u | |
+117_em_209.png:- 3 = prime upper_R upper_R
+117_em_210.png:( ) + + - - - - - - - - - - 1 1 1 1 1 1 1 = = e n n n n n s t upper_C upper_F x x x
+117_em_211.png:1 2 2 = v v
+117_em_212.png:- 4 = upper_L upper_M upper_P
+117_em_213.png:- u v
+117_em_214.png:( ) a b d e f int upper_M x x
+117_em_215.png:( ) j s t
+117_em_216.png:( ( ) ) - 1 2 2 = = f infty k k k sin sqrt sum x x
+118_em_217.png:( ) . / = d f p upper_T upper_V
+118_em_218.png:/ upper_G upper_G upper_H
+118_em_219.png:( ) , upper_B upper_M upper_X
+118_em_220.png:. . = a b pi upper_A upper_R upper_R
+118_em_221.png:2 p s z
+118_em_222.png:+ 2 2 2 4 = c c m p sqrt upper_E
+118_em_224.png:( ( ( ) ) ) + 1 1 = n n upper_C upper_C upper_C upper_E upper_E
+118_em_225.png:+ - - 2 3 4 5 gt u u
+118_em_226.png:d e upper_R
+118_em_227.png:, - 1 2 3 3 3 5 9 = upper_L upper_T v
+118_em_228.png:+ - - 2 = a b c r upper_C upper_S
+118_em_229.png:( ) 0 = f upper_L upper_N { }
+118_em_230.png:- - 1 = e p p q q
+118_em_231.png:( ) , , 0 infty upper_A upper_R
+118_em_232.png:( ) + + - = alpha beta n n prime r upper_B upper_B x y
+118_em_233.png:( ) 0 pi upper_G
+118_em_234.png:+ + = d d d d upper_V x x x y y y z z z
+118_em_235.png:( ) c w
+118_em_236.png:( ) / log upper_L upper_L
+118_em_237.png:- 2 r r | | | |
+118_em_238.png:0 1 = upper_I
+118_em_239.png:( ) 1 = upper_C upper_G upper_G
+118_em_240.png:= d d i k sin theta upper_I upper_I
+118_em_241.png:2 n upper_H
+118_em_242.png:- = e s sin t theta upper_C v
+118_em_244.png:+ - - - leq x x y y z z | | | | | | | | | | | |
+118_em_245.png:- 1 1 n times upper_R upper_S
+118_em_246.png:1 a m upper_I x
+120_em_282.png:- - 0 1 2 = g i i j j upper_R upper_R
+120_em_283.png:+ - 1 1 2 2 = a a upper_M upper_M upper_M
+120_em_284.png:= i u upper_R
+120_em_285.png:= u x
+120_em_286.png:- = a a c e e i m m r s u x
+120_em_287.png:f m upper_I
+120_em_288.png:( ( ( ) ) ) + + - - 0 0 = a b f o z z z z z
+120_em_289.png:- - 1 mu mu
+120_em_290.png:( ) + 1 mu
+120_em_291.png:( ) + - - 1 2 3 3 = a a e pi sqrt w w
+120_em_292.png:( ) - a c c l y y
+120_em_293.png:( ) + + - - 1 3 = [ ] a b c p u upper_A upper_L
+120_em_296.png:- beta upper_B | |
+120_em_297.png:( ) , , - - - 1 1 2 = d d e int k ldots ldots upper_B upper_E upper_N upper_P upper_T upper_X upper_X upper_X upper_X
+120_em_298.png:( ( ) ) upper_F upper_T
+120_em_299.png:( ) - - - - 0 1 1 1 = a b b b c d u
+120_em_300.png:( ) 2
+121_em_302.png:( ) - - 0 0 0 0 7 7 d upper_T upper_T
+121_em_303.png:m o upper_I y
+121_em_304.png:( ) + - - 1 6 8 = = a a infty k k k sum upper_B upper_N upper_N upper_N
+121_em_305.png:+ . 2 = a k n u v
+121_em_306.png:( ) = n n o u v
+121_em_307.png:0 gt upper_C upper_V
+121_em_308.png:( ) , 0 upper_C upper_R
+121_em_309.png:1 2 = n upper_S upper_S
+121_em_310.png:( ) + + + 0 0 0 1 1 1 1 2 2 2 2 2 2 2 2 3 3 4 4 4 5 5 5 5 6 6 6 7 7 = times
+121_em_311.png:= i i j j j sum upper_I upper_V w
+121_em_312.png:+ . 2 2 Delta t v x
+121_em_313.png:( ( ) ) = Delta f g i i j j times w y y
+121_em_314.png:, upper_E upper_F
+121_em_315.png:- a r upper_S upper_S
+121_em_316.png:+ + + 1 2 = n n n u u u
+121_em_318.png:- 0 4 6 upper_P
+121_em_319.png:+ + - - - - - - 2 2 2 2 2 2 2 4 = m m m n n n x x x y y y y y y | | | | | | | | | | | | | | | |
+121_em_320.png:- - = = i i i p p upper_V v v
+121_em_321.png:/ 1 2 = b e i pi r upper_N y
+121_em_322.png:- 1 = m m mu
+121_em_323.png:( ) beta prime s
+121_em_324.png:times upper_M upper_N
+121_em_325.png:+ 0 = d d x x y y
+121_em_326.png:( ) / 1 f s
+121_em_327.png:( ( ( ) ) ) , , , - / / 0 1 1 1 1 1 1 2 3 3 4 5 5 6 6 7 7 7 = d e e times times upper_T
+121_em_328.png:- = d d i t u upper_L upper_L
+121_em_329.png:- 1 i upper_H
+121_em_330.png:- - - - 1 1 1 = upper_E upper_P upper_S
+121_em_331.png:( ( ( ( ( ( ) ) ) ) ) ) + - - - - - 1 1 2 2 2 = = n n n n s upper_E upper_E upper_E upper_V upper_V upper_V upper_X upper_X upper_X upper_X upper_X
+122_em_332.png:( ) - f p q | |
+122_em_333.png:( ( ) ) - - = mu p r t t upper_L upper_L upper_V
+122_em_334.png:( ) = c c e f upper_I upper_V
+122_em_335.png:0 mu
+122_em_336.png:- 2 2 m upper_V
+122_em_337.png:( ) upper_M z
+122_em_338.png:gt p p upper_A upper_A upper_E upper_S
+122_em_339.png:- - 2 = c n o sqrt t upper_L
+122_em_340.png:neq u v
+122_em_341.png:0 upper_E
+122_em_342.png:+ - - 1 1 2 4 4 5 5 5 6 6 = upper_H upper_X upper_X upper_X
+122_em_343.png:a mu upper_P
+122_em_344.png:( ) , = r t w w
+122_em_345.png:( ( ) ) , , = k k upper_F upper_G upper_M upper_M
+122_em_346.png:- - - a d geq p q q upper_C | |
+122_em_347.png:( ) + + - - 2 2 2 2 2 2 2 2 2 = = Delta Delta Delta Delta Delta Delta Delta c c l s t t x y z
+122_em_348.png:2 = a gamma i i j j upper_P upper_T
+122_em_349.png:- 2 = l p q times
+122_em_350.png:, / 1 1 1 2 4 8 9 = = c m m upper_L
+122_em_351.png:( ) j q
+122_em_352.png:, 0 1 = [ ] upper_L
+122_em_353.png:1 1 1 = = = = i i i i m m n p sum sum upper_N
+122_em_354.png:+ 1 4 = v v x
+122_em_355.png:( ( ) ) = d d prime upper_B upper_B upper_V upper_V
+122_em_356.png:( ) f prime x
+122_em_357.png:b o s y
+122_em_358.png:( ) d u upper_P
+122_em_359.png:+ - 0 1 3 3 = = [ [ ] ] a c e upper_P upper_P upper_X upper_X upper_X upper_X v
+122_em_360.png:, , 1 = [ ] k ldots n upper_R upper_X upper_X
+122_em_361.png:( ) r upper_M
+123_em_362.png:= upper_M upper_M upper_N upper_N
+123_em_363.png:- - 1 1 = l m upper_L upper_M
+123_em_364.png:, , , . . . . . . . 1 2 3 = s s s upper_S { }
+123_em_365.png:/ upper_M upper_N
+123_em_366.png:2 upper_H upper_S
+123_em_367.png:( ( ( ( ) ) ) ) + - - - - / / 0 1 1 1 2 2 2 = n s s
+123_em_368.png:( ( ( ( ( ) ) ) ) ) + + + + - - - 1 2 2 2 2 2 2 = alpha alpha alpha alpha upper_L x x x
+123_em_369.png:( ) - = c d f upper_H
+123_em_370.png:0 1 2 = d int upper_S upper_V x x
+123_em_371.png:- - 1 = gamma gamma n p upper_C upper_R
+123_em_373.png:+ 0 2 2 = f upper_S upper_S
+123_em_374.png:- 0 1 i p upper_H
+123_em_375.png:( ) / 0 1 1 2 6 = pi upper_E upper_E
+123_em_376.png:- 1 n upper_N
+123_em_378.png:= m times upper_G upper_V upper_V
+123_em_379.png:( ( ( ) ) ) - = alpha alpha prime prime t t t upper_T | | | |
+123_em_380.png:3 3 times upper_R upper_T
+123_em_381.png:+ + + 1 2 = ldots n n upper_S upper_X upper_X upper_X
+123_em_382.png:( ) a s t upper_P upper_T
+123_em_383.png:( ) - 1 = t times times upper_C upper_C upper_G upper_N
+123_em_384.png:( ) - 0 0 1 4 = = upper_G x y
+123_em_385.png:- 0 0 2 2 2 4 = gamma m p pi upper_S upper_T upper_V
+123_em_386.png:0 Delta lt upper_F
+123_em_387.png:( ) + = f infty l lim rightarrow x x
+123_em_388.png:( ( ) ) - - - - 0 1 1 1 1 2 lt lt upper_L upper_L upper_R upper_R
+123_em_389.png:+ 2 2 w z
+123_em_390.png:1 = upper_T
+123_em_391.png:- 1 k upper_P
+124_em_392.png:( ) - 0 1 = k ldots upper_A upper_A upper_N upper_N
+124_em_394.png:Delta i t
+124_em_395.png:( ) + - - . . . . . 2 2 = d d m q q t upper_B upper_B upper_E v v x x y y z z
+124_em_396.png:- - = a b c upper_E
+124_em_397.png:( ( ) ) , - = a d d upper_A upper_A x | |
+124_em_398.png:+ - 0 0 0 1 2 4 9 = a d int sqrt upper_L x x x
+124_em_399.png:( ) f upper_M
+124_em_400.png:( ( ) ) f leq p x x | |
+124_em_401.png:, n n upper_C upper_H upper_N
+124_em_402.png:3 = upper_N
+124_em_403.png:2 2 = = e e i i k k pi theta w z z | |
+124_em_404.png:+ + - - a b lt m m n n prime prime
+124_em_405.png:( ( ) ) + + p p q q times
+124_em_406.png:0 = i j upper_E upper_E
+124_em_407.png:- 1 = f upper_T
+124_em_408.png:( ( ( ( ) ) ) ) , upper_B upper_B upper_L upper_R upper_S upper_S
+124_em_409.png:- = sigma upper_F upper_S
+124_em_410.png:, , , 1 1 2 2 upper_E upper_E upper_F upper_F
+124_em_411.png:= i r upper_V upper_V
+124_em_412.png:0 = = a k k k p sum upper_P upper_X
+124_em_413.png:, - - . . 0 1 1 1 2 6 6 = l m o s upper_L
+124_em_414.png:( ) + - - 0 0 1 1 2 3 = t upper_H w
+124_em_415.png:1 = sigma
+124_em_416.png:( ( ) ) , geq upper_H upper_H upper_X upper_X upper_Y
+124_em_417.png:- 0 Delta upper_V upper_V
+124_em_418.png:0 = upper_S
+124_em_419.png:a c i y
+124_em_420.png:+ = u u u u u upper_F upper_M upper_M upper_M upper_M v v
+124_em_421.png:( ) upper_M upper_S
+125_em_422.png:( ( ) ) + = a p q x x
+125_em_423.png:( ( ) ) , , gt p p prime prime q q
+125_em_424.png:( ) = i i sum upper_A upper_A upper_F upper_V upper_V
+125_em_427.png:( ) i j upper_M
+125_em_428.png:2 = u u upper_G upper_M upper_M v v
+125_em_429.png:( ) 1 3 upper_M upper_M
+125_em_430.png:( ) 2 = n n upper_L upper_X
+125_em_431.png:1 = mu upper_L upper_L
+125_em_432.png:- 0 2 2 2 2 4 = = c c m p upper_E
+125_em_433.png:( ) , r v
+125_em_434.png:( ) , upper_E upper_F upper_L
+125_em_435.png:in q upper_E
+125_em_436.png:upper_G upper_L v
+125_em_437.png:d upper_A upper_I
+125_em_438.png:( ( ) ) + + - - - - 2 3 3 3 6 = alpha alpha alpha cos pi pi pi sin sqrt w w
+125_em_439.png:. 2 c s
+125_em_440.png:= a upper_L
+125_em_441.png:- = g t u v
+125_em_442.png:/ 1 2 v
+125_em_444.png:= d d t times u upper_E upper_I
+125_em_445.png:- 0 0 1 1 = upper_P upper_P upper_S upper_S
+125_em_446.png:, , , , - 0 1 1 2 ldots r upper_T upper_T upper_T
+125_em_447.png:. = a upper_A upper_I
+125_em_448.png:rightarrow upper_M upper_N
+125_em_449.png:Delta r upper_H
+125_em_450.png:, , in in in u upper_E upper_E upper_E v w
+125_em_451.png:( ) , pm r t w
+126_em_452.png:( ) + + + - - 0 1 1 1 2 2 2 2 2 4 = = a a b f infty n n n sum | | | |
+126_em_453.png:. = Delta Delta c d t
+126_em_454.png:( ) - 0 1 2 = d e log s upper_B upper_G upper_V upper_V
+126_em_455.png:( ) upper_A upper_P
+126_em_456.png:- upper_G upper_N
+126_em_457.png:+ + 2 2 2 2 2 = d d d d r r s theta z
+126_em_458.png:m upper_G upper_L
+126_em_459.png:+ + , 1 1 u upper_N upper_N v
+126_em_460.png:( ) 0 upper_E
+126_em_461.png:- d t t upper_X
+126_em_462.png:+ + 0 = prime prime prime u u v v w w
+126_em_463.png:/ a p q
+126_em_464.png:/ = a p q
+126_em_465.png:, , , , , a a b b c c prime prime prime
+126_em_467.png:( ) d f x
+126_em_468.png:( ) = prime upper_A upper_A upper_S
+126_em_469.png:+ 1 1 2 2 = a a upper_L upper_L upper_L x x
+126_em_470.png:( ) , a f n upper_S
+126_em_471.png:( ) + + - 1 1 = e n n n s t upper_C upper_F x x
+126_em_472.png:( ) , 2 2 k l
+126_em_473.png:( ( ( ) ) ) + , - - - - 0 1 2 = = d infty n n n n p p sum u u u v v v
+126_em_474.png:( ) 2 upper_P v y
+126_em_475.png:= sqrt upper_C upper_R upper_S upper_V
+126_em_476.png:, upper_G upper_H
+126_em_477.png:n upper_T x
+126_em_478.png:0 1 gt upper_R
+126_em_479.png:p s t
+126_em_480.png:( ( ( ( ( ) ) ) ) ) + + + - - - 1 1 1 2 2 2 2 = f f f n n n q q q upper_B x x x
+126_em_481.png:- 1 2 = r r upper_R
+127_em_482.png:( ) + + - - 1 2 2 2 4 k o
+127_em_483.png:- = b upper_A upper_L upper_P upper_R
+127_em_484.png:( ) - 8 pi q r r
+127_em_485.png:1 gt q | |
+127_em_486.png:- - - 1 1 1 2 2 8 = n n n upper_S upper_S upper_S
+127_em_487.png:( ( ) ) + 2 = cos phi sqrt t t upper_I upper_I w
+127_em_488.png:( ( ) ) - - 2 2 2 = alpha alpha cos n sin upper_A upper_R
+127_em_489.png:d mu x
+127_em_490.png:1 2 = i s
+127_em_491.png:, , , 1 2 ldots u u u upper_N
+127_em_492.png:( ) + . . . = b b c c e e upper_C upper_I upper_I upper_P upper_R upper_V upper_V
+127_em_493.png:( ) + - - 0 2 2 = g g g pm sin sin sqrt t theta theta v v y
+127_em_494.png:( ( ) ) i lt pi upper_L x x
+127_em_495.png:( ) , k upper_L x
+127_em_496.png:( ) 1 = phi u upper_T w w
+127_em_497.png:( ( ) ) + - - 0 0 0 1 2 = [ ] a alpha alpha alpha alpha alpha i i i r upper_V upper_X
+127_em_498.png:/ n upper_H upper_T
+127_em_499.png:( ) , = a b upper_C upper_R upper_S
+127_em_500.png:, f upper_T x
+127_em_501.png:- d d t
+127_em_502.png:- - 1 2 2 = k p upper_E upper_F x x
+127_em_503.png:a b d int t t upper_B upper_X
+127_em_505.png:( ( ( ( ) ) ) ) , - 1 1 = = a a d f f i i i n sum upper_L upper_S
+127_em_506.png:( ) , , 2 mu upper_I upper_L upper_R
+127_em_507.png:, , 1 2 u u v
+127_em_508.png:+ 1 2 upper_S
+127_em_509.png:( ( ) ) - = g theta theta upper_G upper_G
+127_em_510.png:- - - - 1 1 1 = upper_E upper_P upper_S
+127_em_511.png:( ) - 1 = b b g prime
+128_em_512.png:, 1 2 [ ] in sigma sigma sigma
+128_em_513.png:/ rightarrow upper_E upper_E upper_F
+128_em_514.png:( ) - - 1 2 3 = r sin theta upper_P upper_P | |
+128_em_515.png:+ + 2 2 2 = x x y y | | | | | | | | | | | |
+128_em_516.png:g v v
+128_em_517.png:( ) upper_E upper_P
+128_em_518.png:, upper_A upper_H { }
+128_em_519.png:( ) upper_M upper_R
+128_em_520.png:( ) t upper_G w
+128_em_521.png:- . 0 0 0 1 = n p upper_N upper_T
+128_em_522.png:- 2 2 upper_N
+128_em_523.png:( ) , upper_S upper_T
+128_em_524.png:i j p q
+128_em_525.png:( ( ) ) - - - = d d d d prime prime times
+128_em_526.png:( ) v x
+128_em_527.png:- m s t upper_V upper_V
+128_em_528.png:( ( ) ) = f g prime x y y
+128_em_529.png:0 1 = m o upper_T y
+128_em_530.png:- - - - 0 1 1 = p p prime upper_C
+128_em_531.png:- = prime upper_E upper_E upper_F upper_G
+128_em_532.png:= d g upper_E
+128_em_536.png:( ) , = f t v w
+128_em_537.png:d in upper_C upper_E upper_I
+128_em_538.png:+ 0 0 = o o t upper_T
+128_em_539.png:( ) 0 2 = f upper_M
+128_em_541.png:n s upper_N y
+129_em_542.png:3 a sqrt
+129_em_543.png:0 0 1 = i i sum x
+129_em_544.png:sqrt x y
+rit_420_0.png:( ) f s
+rit_420_1.png:0 i lt prime
+rit_420_2.png:( ) 0 upper_M
+rit_420_3.png:9 9 9 9 9 9
+rit_420b_0.png:0 = = prime t t
+rit_42100_0.png:1 4 b
+rit_42100_1.png:- - 1 cos sin sqrt x x
+rit_42100_2.png:- 2 4 sqrt
+rit_42100_3.png:- 2 2 4 pm sqrt
+rit_42100_4.png:3 3 y
+rit_42105_0.png:+ 2 6 a sqrt
+rit_42105_1.png:+ - 1 4 a a b b
+rit_42105_2.png:+ + 5 a x x
+rit_42105_3.png:- 4 a
+rit_42105_4.png:+ - 6 a times x y
+rit_4210_0.png:- 9 9 cos sin
+rit_4210_1.png:+ - 2 b b h h
+rit_4210_2.png:b h times
+rit_4210_3.png:- infty infty pm pm
+rit_4210_4.png:- 7 9
+rit_42110_0.png:- sqrt y
+rit_42110_1.png:+ a b d int x y y
+rit_42110_2.png:1 4 sqrt
+rit_42110_3.png:n sum z
+rit_42110_4.png:- = cos sin tan z z z
+rit_42115_0.png:+ + 1 2 3 z z z
+rit_42115_1.png:infty lim n rightarrow x x
+rit_42115_2.png:! ! times x x y y
+rit_42115_3.png:1 5 beta
+rit_42115_4.png:- 1 z
+rit_42120_0.png:1 2 cos theta
+rit_42120_1.png:- 1 2 cos times
+rit_42120_2.png:+ + = a infty infty lim log rightarrow x x
+rit_42120_3.png:2 2 = cos sin sin x x x
+rit_42120_4.png:+ - e infty lim rightarrow x x x
+rit_42125_0.png:- - 1 2 sin x
+rit_42125_1.png:+ 1 2 tan x
+rit_42125_2.png:n rightarrow z z
+rit_42125_3.png:+ + - - - 1 1 2 3 3 5 z z z z
+rit_42125_4.png:+ - = a infty infty lim log rightarrow x x
+rit_42130_0.png:- 3 5
+rit_42130_1.png:2 3 9 = lim rightarrow x x
+rit_42130_2.png:- 5 7 pi
+rit_42130_3.png:+ + = infty infty lim rightarrow sqrt x x
+rit_42130_4.png:+ a b d int x z z
+rit_42135_0.png:infty rightarrow times
+rit_42135_1.png:( ) exists forall upper_R x x y y
+rit_42135_2.png:0 = d infty int lambda lambda upper_L upper_L
+rit_42140_0.png:a forall in upper_F
+rit_42140_1.png:- 2 2 6 pi upper_B
+rit_42140_2.png:a b c neq neq
+rit_42140_3.png:- pi theta
+rit_42140_4.png:a beta geq
+rit_42145_0.png:a n sum
+rit_42145_1.png:cos n theta
+rit_42145_2.png:+ - 3 pi
+rit_42145_3.png:6 n neq
+rit_42145_4.png:c n sum
+rit_42150_0.png:+ 3 3 3 3
+rit_42150_1.png:( ( ) ) / / / / 1 1 2 2 3 3 4 4 neq
+rit_42150_2.png:+ - 2 pi theta
+rit_42150_3.png:- 7 pi
+rit_42150_4.png:+ - - 2 3 3 3 3 3 sqrt sqrt x x x
+rit_42155_0.png:- - 3 3 3 sqrt x x
+rit_42155_1.png:+ 2 2 x y
+rit_42155_2.png:2 beta n
+rit_42155_3.png:+ 1 3 x
+rit_4215_0.png:+ h x
+rit_4215_1.png:- 2 b h
+rit_4215_2.png:- 2 3 h
+rit_4215_3.png:- 5 9
+rit_4215_4.png:log log n
+rit_42160_0.png:+ - 0 1 2 3 5 5 5 6 = sin sin sin sin x x x x
+rit_42160_1.png:+ a b d int y y z
+rit_42160_2.png:- 1 pm sqrt
+rit_42160_3.png:+ - - - 1 1 2 x y
+rit_42160_4.png:+ - - - 1 1 1 = d d int int x y y y
+rit_42165_0.png:+ + 2 2 2 x y z
+rit_42165_1.png:+ = a a b b c cos cos cos sin sin
+rit_42165_2.png:+ + = [ ] a a a b b b cos cos sin sin sin
+rit_42170_0.png:+ - - - 1 1 2 3 4 4 4 4 x x x x
+rit_42170_1.png:+ + - 2 2 2 4 4 sqrt x x
+rit_42170_2.png:+ + = [ [ ] ] cos cos sin sin sin x x x y y y
+rit_42170_3.png:+ - - 0 1 2 2 2 2 e log log log log x x
+rit_42170_4.png:( ) + + 0 1 1 a geq n n n n sum z
+rit_42175_0.png:- 2 k k sum
+rit_42175_1.png:0 2 geq n n n n sum z
+rit_42175_2.png:- 0 1 geq n n sum x
+rit_42175_3.png:n sum x
+rit_42180_0.png:d int x
+rit_42180_1.png:1 2 d int x x
+rit_42180_2.png:2 2 5 d int x x
+rit_42180_3.png:+ + - 1 2 a b c d int sqrt x x x
+rit_42185_0.png:( ) + - - 0 1 2 2 3 5 cos lim rightarrow x x x x
+rit_42185_1.png:( ) + - 0 a a d infty int lim rightarrow sin x x x
+rit_42185_2.png:= a b b lim rightarrow x
+rit_42185_3.png:! 0 1 n
+rit_42190_0.png:+ - 0 0 1 1 1 1 2 2 d d int int x x y y
+rit_42190_1.png:( ) + + + 1 2 2 2 3 3 4 7 = upper_P upper_Y upper_Y upper_Y upper_Y
+rit_42190_2.png:+ + + + 1 1 2 2 3 3 5 8 phi phi phi
+rit_42190_3.png:+ + - - - 1 1 1 1 2 2 sqrt sqrt sqrt sqrt
+rit_42190_4.png:- - 1 1 sqrt sqrt times
+rit_42195_0.png:+ 0 = exists forall x x y y
+rit_4220_0.png:+ a h
+rit_4220_1.png:9 9 times
+rit_4220_2.png:1 3 h sqrt
+rit_4220_3.png:- 4 9
+rit_4220_4.png:+ - - - - 0 1 2 2 2 2 3 3 3 3 = h h h h h h h h
+rit_4225_0.png:3 3 5 5 div div neq
+rit_4225_1.png:a b div
+rit_4225_2.png:3 8 sqrt
+rit_4225_3.png:- 5 6 8
+rit_4225_4.png:7 7 7
+rit_4230_0.png:- 6 7
+rit_4230_1.png:cos sin times x x
+rit_4230_2.png:- 3 7
+rit_4230_3.png:- 3 6
+rit_4230_4.png:- = cos sin tan x x x
+rit_4235_0.png:- 5 7
+rit_4235_1.png:- sin x
+rit_4235_2.png:- 3 4 6 sqrt
+rit_4235_3.png:- 5 6
+rit_4235_4.png:- 3 3 sqrt
+rit_4240_0.png:3 3 3 5 5 6 7 7
+rit_4240_1.png:- = cos sin tan theta theta theta
+rit_4240_2.png:2 sin theta
+rit_4240_3.png:3 4 sqrt
+rit_4240_4.png:- 3 4 sqrt
+rit_4245_0.png:! - b b
+rit_4245_1.png:- 2 tan theta
+rit_4245_2.png:+ 3 3 6 sqrt
+rit_4245_3.png:- 3 3 7 7 sqrt sqrt
+rit_4245_4.png:+ 2 sin tan x x
+rit_4250_0.png:a log x
+rit_4250_1.png:b x
+rit_4250_2.png:2 8 sqrt
+rit_4250_3.png:1 8 sqrt
+rit_4250_4.png:2 log x
+rit_4255_0.png:a a log
+rit_4255_1.png:+ + leq sqrt sqrt sqrt x x y y
+rit_4255_2.png:b rightarrow x
+rit_4255_3.png:sqrt x y z
+rit_4255_4.png:b leq x
+rit_425_0.png:! 9 9
+rit_425_1.png:- - h h y
+rit_425_2.png:- 3 5 h
+rit_425_3.png:h rightarrow x
+rit_425_4.png:h infty rightarrow
+rit_4260_0.png:+ a b sqrt
+rit_4260_1.png:- 2 3 8 sqrt
+rit_4260_2.png:+ 4 x
+rit_4260_3.png:+ x x y y
+rit_4260_4.png:- 1 8
+rit_4265_0.png:+ 3 4 4 4
+rit_4265_1.png:+ x y
+rit_4265_2.png:- x x
+rit_4265_3.png:+ a b x y
+rit_4270_0.png:leq x y
+rit_4270_1.png:+ a b x
+rit_4270_2.png:- a b
+rit_4270_3.png:- a b
+rit_4275_0.png:+ a a b b
+rit_4275_1.png:a b int phi
+rit_4275_2.png:- 3 4
+rit_4275_3.png:- - - 2 4 8 8 x x
+rit_4275_4.png:- 3 4 a sqrt
+rit_4280_0.png:- 1 4 8 9
+rit_4280_1.png:+ + 3 a b x x
+rit_4280_2.png:2 sqrt sqrt
+rit_4280_3.png:a b rightarrow
+rit_4280_4.png:+ + 2 4 6 sqrt x x
+rit_4285_0.png:+ 1 cos x
+rit_4285_1.png:+ 2 = a a a b b b pm pm sqrt sqrt sqrt sqrt
+rit_4285_2.png:b n sum
+rit_4285_3.png:a b leq
+rit_4285_4.png:a b leq
+rit_4290_0.png:+ 3 3 x y
+rit_4290_1.png:6 a leq leq x
+rit_4290_2.png:+ 1 4 sqrt x
+rit_4290_3.png:- 4 8 n
+rit_4290_4.png:+ 2 3 sqrt sqrt
+rit_4295_0.png:+ 2 3 4 5 7 8
+rit_4295_1.png:+ 2 5 6 sqrt sqrt
+rit_4295_2.png:+ + + - 1 2 2 3 4 8 8 x x x x
+rit_4295_3.png:+ + + - 1 2 2 3 4 8 8 x x x x
+rit_4295_4.png:3 a sqrt
+ritm_420_0.png:+ + + + 3 3 4 4 4 4 5 5 6 6 6 6 6 8 8 8 =
+ritm_421_0.png:+ - 1 cos sin sqrt x x
+ritm_422_0.png:+ + + + + 2 3 4 5 7 7 7 7 7 9 9 9 9 9 times times times times times
+ritm_423_0.png:- e e lambda lambda
+ritm_423_1.png:+ + - - - - - - - - - 2 2 2 2 a a alpha alpha b b beta beta tan tan tan tan
+ritm_423_2.png:+ - 2 alpha beta
+ritm_425_0.png:+ - 0 1 2 3 5 5 5 6 = cos cos cos x x x
+ritm_426_0.png:+ + - - 1 2 3 7 7 sqrt sqrt x x x
+ritm_427_0.png:+ = a a b b c cos cos cos cos gamma sin sin
+ritm_427_1.png:n sum x
+ritm_429_0.png:( ) + + + + + - 1 1 2 2 4 infty lim rightarrow sqrt sqrt x x x x x

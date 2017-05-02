@@ -1,0 +1,31 @@
+!
+=
+cos
+div
+geq
+i
+j
+k
+ldots
+leq
+lim
+log
+pi
+pm
+rightarrow
+sin
+sum
+tan
+theta
+upper_E
+upper_F
+upper_I    	****
+upper_P
+upper_R
+upper_T
+upper_Y		****
+5			****
+x
+
+24:450
+72:150
